@@ -1,4 +1,0 @@
-names: [cone, speed_bump, pothole, crack, manhole]
-nc: 5
-train: /content/gdrive/MyDrive/deep/dataset/train.txt
-val: /content/gdrive/MyDrive/deep/dataset/val.txt
